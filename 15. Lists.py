@@ -2,9 +2,14 @@
 
 food = ["pizza","hamburger","hotdog","spaghetti","pudding"]
 
-food.
+food[0] = "shushi"
 
-# print(food[0])
+food.append("ice cream")
 
 for x in food:
     print(x)
+
+food.remove("hot")
+
+print
+
